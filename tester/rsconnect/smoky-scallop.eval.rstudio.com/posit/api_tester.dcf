@@ -1,0 +1,13 @@
+name: api_tester
+title: api_tester
+username: posit
+account: posit
+server: smoky-scallop.eval.rstudio.com
+hostUrl: https://smoky-scallop.eval.rstudio.com/cnct/__api__
+appId: 12
+bundleId: 12
+url: https://smoky-scallop.eval.rstudio.com/cnct/content/5d76cb98-9085-40f9-9f5e-e7e18a018cd0/
+when: 1679829069.23923
+lastSyncTime: 1679829069.23924
+asMultiple: FALSE
+asStatic: FALSE
