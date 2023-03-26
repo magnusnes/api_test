@@ -19,6 +19,12 @@ function(msg = "") {
     list(msg = paste0("The message is: '", msg, "'"))
 }
 
+#* Return the version
+#* @get /version
+function() {
+  list(msg = paste0("The version is: '1'"))
+}
+
 #* Plot a histogram
 #* @serializer png
 #* @get /plot
